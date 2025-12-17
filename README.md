@@ -1,16 +1,15 @@
 
-## 📋 Requisitos del Sistema
+## 📋 System requirements
+To run this project smoothly, you need to have the following installed:
 
-Para ejecutar este proyecto sin problemas, necesitas tener instalado:
+* **Lenguage:** [Python 3.12.*](https://www.python.org/downloads/release/python-3120/) 🐍
+* **Library:** [Pygame](https://www.pygame.org/news) 🕹️
 
-* **Lenguaje:** [Python 3.12.*](https://www.python.org/downloads/release/python-3120/) 🐍
-* **Librería Principal:** [Pygame](https://www.pygame.org/news) 🕹️
+## 🛠️ Installation and Configuration
 
-## 🛠️ Instalación y Configuración
+Follow these steps to get the project ready on your computer:
 
-Sigue estos pasos para tener el proyecto listo en tu equipo:
-
-1. **Clonar el repositorio:**
-   ```bash
-   git clone [https://github.com/tu-usuario/nombre-de-tu-repo.git](https://github.com/tu-usuario/nombre-de-tu-repo.git)
-   cd GenIA_Practica_Grupo_03
+1. **Clone the repository:**
+```bash
+git clone [https://github.com/tu-usuario/nombre-de-tu-repo.git](https://github.com/tu-usuario/nombre-de-tu-repo.git)
+cd GenIA_Practica_Grupo_03
