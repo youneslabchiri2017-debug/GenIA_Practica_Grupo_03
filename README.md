@@ -11,5 +11,5 @@ Follow these steps to get the project ready on your computer:
 
 1. **Clone the repository:**
 ```bash
-git clone [https://github.com/tu-usuario/nombre-de-tu-repo.git](https://github.com/tu-usuario/nombre-de-tu-repo.git)
+git clone https://github.com/youneslabchiri2017-debug/GenIA_Practica_Grupo_03/tree/main
 cd GenIA_Practica_Grupo_03
